@@ -8,8 +8,6 @@ highlighter: rouge
 tags:
   - PyTorch
 ---
-<script data-ad-client="ca-pub-7720049635521188" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
 The first step to learning PyTorch is to understand how to structure the code when building a simple neural network.
 We will demonstrate this on a fully connected network and train it on the dataset MNIST which contains 28x28
 pixels grayscale images of hand-written digits.
