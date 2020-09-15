@@ -10,6 +10,8 @@ math: true
 tags:
   - PyTorch
 ---
+<script data-ad-client="ca-pub-7720049635521188" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 The state of the art models in image recognition are all built with convolutional
 neural networks. Today many even claim that the problem of computer vision is solved
 as deep learning models outperform humans on many vision tasks. Convolutional neural
