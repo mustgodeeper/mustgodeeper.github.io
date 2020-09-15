@@ -10,6 +10,8 @@ math: true
 tags:
   - PyTorch
 ---
+<script data-ad-client="ca-pub-7720049635521188" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 A tensor is generalization of the terms scalar, vector and matrix to higher
 dimensions for example a mathematical structure with shape $(m_1,m_1,m_3, ...)$ is called
 a tensor. Deep learning methods are all based on manipulating tensors by combining
